@@ -1,4 +1,4 @@
-## Olá! eu sou a Danielle Moura, estudante de Tecnologia em Sistemas para Internete - IFPE
+## Olá! eu sou a Danielle Moura, estudante de Tecnologia em Sistemas para Internet  -  IFPE
 <div align="center">
   <a href="https://github.com/Danpam12">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Danpam12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
